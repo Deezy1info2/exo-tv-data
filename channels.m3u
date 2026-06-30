@@ -1,144 +1,1460 @@
-#EXTM3U
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://45.172.92.111:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://45.5.119.43:4000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOX CR
-http://8.243.126.131:8000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://8.243.126.131:8000/play/a0ih/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://45.228.234.62:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://200.229.147.210:9999/play/a0as/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://200.229.147.142:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://187.245.231.226:8000/play/a0og/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://181.119.108.27:7292/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://170.244.209.30:8000/play/a0y3/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://186.33.25.234:8125/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://181.119.111.25:4000/play/a0f1/index.m3u8
-
-#EXTINF:-1,DSPORTS HD
-http://74.208.30.121/a176/mono.m3u8
-#EXTINF:-1,DSPORTS HD
-https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://38.210.3.64:8090/play/a0je/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://201.240.104.137:8000/play/a0aa/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://200.60.124.20:29000/play/a081/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://181.224.255.210:8001/play/a0s8/index.m3u8
-
-#EXTINF:-1,DSPORTS2 HD
-http://74.208.30.121/a177/mono.m3u8
-#EXTINF:-1,DSPORTS2 HD
-https://futbol9865.ultratv13.workers.dev/deportivo111/95.m3u8
-dtv2
-http://200.59.188.3:8000/play/a0xe
-
-#EXTINF:-1,DSPORTS+ HD
-http://74.208.30.121/a178/mono.m3u8
-#EXTINF:-1,DSPORTS+ HD
-https://futbol9865.ultratv13.workers.dev/deportivo111/96.m3u8
-
-#EXTINF:-1,TUDN HD
-http://74.208.30.121/a192/mono.m3u8
-#EXTINF:-1,TUDN HD
-https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
- #EXTINF:-1,TUDN HD OP2
-https://futbol9865.ultratv13.workers.dev/deportivo111/106.m3u8
-#EXTINF:-1,TUDN HD OP3
-https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 
-http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a04f.png",37) TUDN
-http://45.228.234.62:8000/play/a00a/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
-http://45.186.106.207:8000/play/a099/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
-http://45.186.105.214:8000/play/a05r/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
-http://200.229.147.142:8000/play/a096/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
-http://24.152.53.3:8090/play/a012/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
-http://187.245.231.226:8000/play/a0ut/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 4K
-http://177.10.184.60:8002/play/a013/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 4K
-http://190.83.9.222:8000/play/ca040/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
-http://190.83.9.222:8000/play/ca099/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
-http://45.171.64.30:8800/play/a07e
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
-http://200.229.147.210:9999/play/a01v/index.m3u8
-
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
-http://200.229.147.210:9999/play/a00g/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
-http://177.10.184.60:8002/play/a013/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
-http://200.229.147.142:8000/play/a00d/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
-http://200.115.96.66:4000/play/a02i/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
-http://170.244.209.30:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a04f.png",37) TUDN
-http://181.119.111.25:4000/play/a04f/index.m3u8
-
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
-http://200.229.147.210:9999/play/a00h/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
-http://200.229.147.142:8000/play/a00e/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
-http://200.115.96.66:4000/play/a02h/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
-http://170.244.209.30:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a0ky.png",Deportes TVC - HND
-http://181.119.111.25:4000/play/a0ky/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Deportes tvc
-http://200.229.147.142:8000/play/a04k/index.m3u8
-#EXTINF:0 group-title="-" channelId="-1" logo= " ",Deportes tvc
-http://200.229.147.142:8000/play/a05g/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Deportes tvc
-http://200.115.96.66:4000/play/a005/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Deportes tvc
-http://200.115.96.66:4000/play/a001/index.m3u8
-#EXTINF:0 group-title="-" logo= " " ,Deportes tvc
-http://200.115.96.66:4000/play/a0dn/index.m3u8
-
-#EXTINF:0 group-title="-" logo= " ",Win Sports
-http://181.78.8.199:8000/play/a0cc/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Win Sports
-http://181.78.211.244:8005/play/a0am/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Win Sports
-http://181.78.21.46:8009/play/a02s
-
-
-#EXTINF:0 group-title="-" logo= " ",Win Sports+
-http://181.78.8.199:8000/play/a06v/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Win Sports+
-http://181.205.205.173:8888/play/a0ul/index.m3u8
-
-
-
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png",Tigo Sports HD
-http://45.5.118.152:8000/play/a08x/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
-http://45.228.234.62:8000/play/a00h/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports+ HD
-http://45.171.64.30:2000/play/a08e/index.m3u8
-#EXTINF:0 group-title="-"  type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD lento
-http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| SPORTS FHD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",✦●✦| SPORTS FHD |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/217.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE FHD" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE FHD
+http://149.18.45.187:80/live/9429887059/7598860521/218.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT FHD" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT FHD
+http://149.18.45.187:80/live/9429887059/7598860521/219.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT FHD [BK]" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1359407.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT FHD [BK1]" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT FHD [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1373170.ts
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="FR| CANAL+ DOCS FHD" tvg-logo="https://lo1.in/FR/cndocs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ DOCS FHD
+http://149.18.45.187:80/live/9429887059/7598860521/155635.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS FHD" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS FHD
+http://149.18.45.187:80/live/9429887059/7598860521/193910.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT FHD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT FHD
+http://149.18.45.187:80/live/9429887059/7598860521/228057.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT FHD [BK]" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1373043.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 FHD" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/228056.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC TALK SPORT FHD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC TALK SPORT FHD
+http://149.18.45.187:80/live/9429887059/7598860521/6933.ts
+#EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-name="FR| RMC SPORTS 1 ACCESS FHD" tvg-logo="https://lo1.in/FR/rmcp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 ACCESS FHD
+http://149.18.45.187:80/live/9429887059/7598860521/670.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 FHD" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/220.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 FHD [BK]" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751410.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR| RMC SPORTS 2 FHD" tvg-logo="https://lo1.in/FR/rmc2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/221.ts
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR| RMC SPORTS 3 FHD" tvg-logo="https://lo1.in/FR/rmc3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/222.ts
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="FR| RMC SPORTS 4 FHD" tvg-logo="https://lo1.in/FR/rmcs4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 4 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/223.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/224.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/225.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/226.ts
+#EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-name="FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/227.ts
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm5.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/228.ts
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm6.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/229.ts
+#EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-name="FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm7.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/230.ts
+#EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-name="FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm8.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/231.ts
+#EXTINF:-1 tvg-id="beinsportsmax9.fr" tvg-name="FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm9.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/232.ts
+#EXTINF:-1 tvg-id="beinsportsmax10.fr" tvg-name="FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm10.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/233.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 FHD" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/239.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 FHD" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/240.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR| INFOSPORT+ FHD" tvg-logo="https://lo1.in/FR/infsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| INFOSPORT+ FHD
+http://149.18.45.187:80/live/9429887059/7598860521/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CHEVAL TV FHD" tvg-logo="https://lo1.in/fr/Cheval.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CHEVAL TV FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1214031.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOPLUS TV FHD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOPLUS TV FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1050936.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="FR| L'EQUIPE FHD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE FHD
+http://149.18.45.187:80/live/9429887059/7598860521/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE FOOT FHD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE FOOT FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1043675.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 1 FHD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/3233.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 2 FHD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/3236.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 3 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 3 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19078.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 4 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 4 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19076.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 5 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 5 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19074.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 6 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 6 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19072.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 7 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 7 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19070.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 8 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 8 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19068.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 9 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 9 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19066.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 10 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 10 FHD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19064.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ FHD" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ FHD
+http://149.18.45.187:80/live/9429887059/7598860521/236.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL FHD" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL FHD
+http://149.18.45.187:80/live/9429887059/7598860521/237.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| MOTORVISION FHD" tvg-logo="https://lo1.in/FR/moto.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| MOTORVISION FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29276.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE FHD" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE FHD
+http://149.18.45.187:80/live/9429887059/7598860521/2242.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOMOTO LA CHAINE FHD" tvg-logo="https://lo1.in/FR/automt.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOMOTO LA CHAINE FHD
+http://149.18.45.187:80/live/9429887059/7598860521/238.ts
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR| OL TV FHD" tvg-logo="https://lo1.in/FR/oltv.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| OL TV FHD
+http://149.18.45.187:80/live/9429887059/7598860521/676.ts
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR| TRACE SPORT STARS FHD" tvg-logo="https://lo1.in/fr/trss.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| TRACE SPORT STARS FHD
+http://149.18.45.187:80/live/9429887059/7598860521/671.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| SPORTS HD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",✦●✦| SPORTS HD |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/258.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT HD
+http://149.18.45.187:80/live/9429887059/7598860521/260.ts
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="FR| CANAL+ DOCS HD" tvg-logo="https://lo1.in/FR/cndocs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ DOCS HD
+http://149.18.45.187:80/live/9429887059/7598860521/155636.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE HD" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE HD
+http://149.18.45.187:80/live/9429887059/7598860521/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS HD" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS HD
+http://149.18.45.187:80/live/9429887059/7598860521/193909.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HD
+http://149.18.45.187:80/live/9429887059/7598860521/228053.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HD [BK]" tvg-logo="https://lo1.in/fr/CANAL FOOT.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751413.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 HD" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 HD
+http://149.18.45.187:80/live/9429887059/7598860521/228052.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC TALK SPORT HD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC TALK SPORT HD
+http://149.18.45.187:80/live/9429887059/7598860521/6934.ts
+#EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-name="FR| RMC SPORTS 1 ACCESS HD" tvg-logo="https://lo1.in/FR/rmcp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 ACCESS HD
+http://149.18.45.187:80/live/9429887059/7598860521/683.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 HD" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/261.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 HD [BK]" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751411.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR| RMC SPORTS 2 HD" tvg-logo="https://lo1.in/FR/rmc2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/262.ts
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR| RMC SPORTS 3 HD" tvg-logo="https://lo1.in/FR/rmc3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/263.ts
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="FR| RMC SPORTS 4 HD" tvg-logo="https://lo1.in/FR/rmcs4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 4 HD
+http://149.18.45.187:80/live/9429887059/7598860521/264.ts
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="FR| RMC SPORTS 7 HD" tvg-logo="https://lo1.in/FR/mrcsp7.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 7 HD
+http://149.18.45.187:80/live/9429887059/7598860521/265.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/266.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/267.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/268.ts
+#EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-name="FR| BEIN SPORTS MAX4 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX4 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/269.ts
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="FR| BEIN SPORTS MAX5 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm5.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX5 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/270.ts
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="FR| BEIN SPORTS MAX6 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm6.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX6 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/271.ts
+#EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-name="FR| BEIN SPORTS MAX7 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm7.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX7 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/272.ts
+#EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-name="FR| BEIN SPORTS MAX8 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm8.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX8 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/273.ts
+#EXTINF:-1 tvg-id="beinsportsmax9.fr" tvg-name="FR| BEIN SPORTS MAX9 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm9.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX9 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/274.ts
+#EXTINF:-1 tvg-id="beinsportsmax10.fr" tvg-name="FR| BEIN SPORTS MAX10 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm10.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX10 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/275.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 HD" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/282.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 HD" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/283.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR| INFOSPORT+ HD" tvg-logo="https://lo1.in/FR/infsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| INFOSPORT+ HD
+http://149.18.45.187:80/live/9429887059/7598860521/276.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="FR| L'EQUIPE HD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE HD
+http://149.18.45.187:80/live/9429887059/7598860521/277.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE FOOT HD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE FOOT HD
+http://149.18.45.187:80/live/9429887059/7598860521/1043674.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 1 HD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/3234.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 2 HD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/3237.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 3 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 3 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19077.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 4 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 4 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19075.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 5 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 5 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19073.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 6 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 6 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19071.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 7 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 7 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19069.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 8 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 8 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19067.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 9 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 9 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19065.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 10 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 10 HD - (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/19063.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ HD" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ HD
+http://149.18.45.187:80/live/9429887059/7598860521/278.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL HD" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL HD
+http://149.18.45.187:80/live/9429887059/7598860521/279.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE HD" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE HD
+http://149.18.45.187:80/live/9429887059/7598860521/280.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOMOTO LA CHAINE HD" tvg-logo="https://lo1.in/FR/automt.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOMOTO LA CHAINE HD
+http://149.18.45.187:80/live/9429887059/7598860521/281.ts
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR| TRACE SPORT STARS HD" tvg-logo="https://lo1.in/fr/trss.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| TRACE SPORT STARS HD
+http://149.18.45.187:80/live/9429887059/7598860521/672.ts
+#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="FR| SPORT EN FRANCE HD" tvg-logo="https://lo1.in/FR/sprfr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| SPORT EN FRANCE HD
+http://149.18.45.187:80/live/9429887059/7598860521/669.ts
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR| OL TV HD" tvg-logo="https://lo1.in/FR/oltv.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| OL TV HD
+http://149.18.45.187:80/live/9429887059/7598860521/674.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| EUROSPORT 360 HD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",✦●✦| EUROSPORT 360 HD |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/155634.ts
+#EXTINF:-1 tvg-id="eurosport3601.fr" tvg-name="FR| EUROSPORT360 1 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/925.ts
+#EXTINF:-1 tvg-id="eurosport3602.fr" tvg-name="FR| EUROSPORT360 2 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/924.ts
+#EXTINF:-1 tvg-id="eurosport3603.fr" tvg-name="FR| EUROSPORT360 3 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/923.ts
+#EXTINF:-1 tvg-id="eurosport3604.fr" tvg-name="FR| EUROSPORT360 4 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 4 HD
+http://149.18.45.187:80/live/9429887059/7598860521/922.ts
+#EXTINF:-1 tvg-id="eurosport3605.fr" tvg-name="FR| EUROSPORT360 5 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 5 HD
+http://149.18.45.187:80/live/9429887059/7598860521/921.ts
+#EXTINF:-1 tvg-id="eurosport3606.fr" tvg-name="FR| EUROSPORT360 6 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 6 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1186.ts
+#EXTINF:-1 tvg-id="eurosport3607.fr" tvg-name="FR| EUROSPORT360 7 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 7 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1185.ts
+#EXTINF:-1 tvg-id="eurosport3608.fr" tvg-name="FR| EUROSPORT360 8 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 8 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1184.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| SPORTS HEVC |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",✦●✦| SPORTS HEVC |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/241.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE HEVC" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/242.ts
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="FR| CANAL+ DOCS HEVC" tvg-logo="https://lo1.in/FR/cndocs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ DOCS HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/155637.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT HEVC" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/243.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HEVC" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/228055.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HEVC [BK]" tvg-logo="https://lo1.in/fr/CANAL FOOT.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HEVC [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751412.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT UHD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT UHD
+http://149.18.45.187:80/live/9429887059/7598860521/1223130.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 HEVC" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/228054.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS HEVC" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/12647.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 HEVC" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/244.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR| RMC SPORTS 2 HEVC" tvg-logo="https://lo1.in/FR/rmc2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 2 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/245.ts
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR| RMC SPORTS 3 HEVC" tvg-logo="https://lo1.in/FR/rmc3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 3 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/246.ts
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="FR| RMC SPORTS 4 HEVC" tvg-logo="https://lo1.in/FR/rmcs4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 4 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/247.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 HEVC" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/248.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 HEVC" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/249.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 HEVC" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/250.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 HEVC" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/256.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 HEVC" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/257.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR| INFOSPORT+ HEVC" tvg-logo="https://lo1.in/FR/infsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| INFOSPORT+ HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/251.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ HEVC" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/253.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL HEVC" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/254.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="FR| L'EQUIPE HEVC" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 1 HEVC" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 1 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/2246.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 2 HEVC" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 2 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/2245.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE HEVC" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/2247.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOMOTO LA CHAINE HEVC" tvg-logo="https://lo1.in/FR/automt.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOMOTO LA CHAINE HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/255.ts
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR| OL TV HEVC" tvg-logo="https://lo1.in/FR/oltv.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| OL TV HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/675.ts
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR| TRACE SPORT STARS HEVC" tvg-logo="https://lo1.in/fr/trss.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| TRACE SPORT STARS HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/673.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 SD" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4339.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 SD" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4338.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR| INFOSPORT+ SD" tvg-logo="https://lo1.in/FR/infsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| INFOSPORT+ SD
+http://149.18.45.187:80/live/9429887059/7598860521/4337.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="FR| L'EQUIPE SD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE SD
+http://149.18.45.187:80/live/9429887059/7598860521/4336.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE FOOT SD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE FOOT SD
+http://149.18.45.187:80/live/9429887059/7598860521/1043673.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 1 SD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 1 SD
+http://149.18.45.187:80/live/9429887059/7598860521/3235.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE 2 SD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE 2 SD
+http://149.18.45.187:80/live/9429887059/7598860521/3238.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ SD" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ SD
+http://149.18.45.187:80/live/9429887059/7598860521/4335.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 SD" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4342.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 SD" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4341.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 SD" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4340.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT SD" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT SD
+http://149.18.45.187:80/live/9429887059/7598860521/4343.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS SD" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS SD
+http://149.18.45.187:80/live/9429887059/7598860521/193908.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE SD" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE SD
+http://149.18.45.187:80/live/9429887059/7598860521/4344.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT SD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT SD
+http://149.18.45.187:80/live/9429887059/7598860521/228051.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 SD" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 SD
+http://149.18.45.187:80/live/9429887059/7598860521/228050.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE SD" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE SD
+http://149.18.45.187:80/live/9429887059/7598860521/4334.ts
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR| TRACE SPORT STARS SD" tvg-logo="https://lo1.in/fr/trss.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| TRACE SPORT STARS SD
+http://149.18.45.187:80/live/9429887059/7598860521/2200.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL SD" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL SD
+http://149.18.45.187:80/live/9429887059/7598860521/2201.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE FHD" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE FHD
+http://149.18.45.187:80/live/9429887059/7598860521/218.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT FHD" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT FHD
+http://149.18.45.187:80/live/9429887059/7598860521/219.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT FHD [BK]" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1359407.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT FHD [BK1]" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT FHD [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1373170.ts
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="FR| CANAL+ DOCS FHD" tvg-logo="https://lo1.in/FR/cndocs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ DOCS FHD
+http://149.18.45.187:80/live/9429887059/7598860521/155635.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS FHD" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS FHD
+http://149.18.45.187:80/live/9429887059/7598860521/193910.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT FHD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT FHD
+http://149.18.45.187:80/live/9429887059/7598860521/228057.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT FHD [BK]" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1373043.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 FHD" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/228056.ts
+#EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-name="FR| RMC SPORTS 1 ACCESS FHD" tvg-logo="https://lo1.in/FR/rmcp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 ACCESS FHD
+http://149.18.45.187:80/live/9429887059/7598860521/670.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 FHD" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/220.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 FHD [BK]" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751410.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR| RMC SPORTS 2 FHD" tvg-logo="https://lo1.in/FR/rmc2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/221.ts
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR| RMC SPORTS 3 FHD" tvg-logo="https://lo1.in/FR/rmc3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/222.ts
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="FR| RMC SPORTS 4 FHD" tvg-logo="https://lo1.in/FR/rmcs4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 4 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/223.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/224.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/225.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/226.ts
+#EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-name="FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/227.ts
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm5.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/228.ts
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm6.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/229.ts
+#EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-name="FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm7.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/230.ts
+#EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-name="FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm8.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/231.ts
+#EXTINF:-1 tvg-id="beinsportsmax9.fr" tvg-name="FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm9.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/232.ts
+#EXTINF:-1 tvg-id="beinsportsmax10.fr" tvg-name="FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm10.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/233.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 FHD" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/239.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 FHD" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CHEVAL TV FHD" tvg-logo="https://lo1.in/fr/Cheval.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CHEVAL TV FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1214031.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOPLUS TV FHD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOPLUS TV FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1050936.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE FOOT FHD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE FOOT FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1043675.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ FHD" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ FHD
+http://149.18.45.187:80/live/9429887059/7598860521/236.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL FHD" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL FHD
+http://149.18.45.187:80/live/9429887059/7598860521/237.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| MOTORVISION FHD" tvg-logo="https://lo1.in/FR/moto.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| MOTORVISION FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29276.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE FHD" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE FHD
+http://149.18.45.187:80/live/9429887059/7598860521/2242.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOMOTO LA CHAINE FHD" tvg-logo="https://lo1.in/FR/automt.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOMOTO LA CHAINE FHD
+http://149.18.45.187:80/live/9429887059/7598860521/238.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT HD
+http://149.18.45.187:80/live/9429887059/7598860521/260.ts
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="FR| CANAL+ DOCS HD" tvg-logo="https://lo1.in/FR/cndocs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ DOCS HD
+http://149.18.45.187:80/live/9429887059/7598860521/155636.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE HD" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE HD
+http://149.18.45.187:80/live/9429887059/7598860521/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS HD" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS HD
+http://149.18.45.187:80/live/9429887059/7598860521/193909.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HD
+http://149.18.45.187:80/live/9429887059/7598860521/228053.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HD [BK]" tvg-logo="https://lo1.in/fr/CANAL FOOT.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751413.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 HD" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 HD
+http://149.18.45.187:80/live/9429887059/7598860521/228052.ts
+#EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-name="FR| RMC SPORTS 1 ACCESS HD" tvg-logo="https://lo1.in/FR/rmcp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 ACCESS HD
+http://149.18.45.187:80/live/9429887059/7598860521/683.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 HD" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/261.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 HD [BK]" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751411.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR| RMC SPORTS 2 HD" tvg-logo="https://lo1.in/FR/rmc2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/262.ts
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR| RMC SPORTS 3 HD" tvg-logo="https://lo1.in/FR/rmc3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/263.ts
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="FR| RMC SPORTS 4 HD" tvg-logo="https://lo1.in/FR/rmcs4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 4 HD
+http://149.18.45.187:80/live/9429887059/7598860521/264.ts
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="FR| RMC SPORTS 7 HD" tvg-logo="https://lo1.in/FR/mrcsp7.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 7 HD
+http://149.18.45.187:80/live/9429887059/7598860521/265.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/266.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/267.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/268.ts
+#EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-name="FR| BEIN SPORTS MAX4 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX4 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/269.ts
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="FR| BEIN SPORTS MAX5 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm5.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX5 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/270.ts
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="FR| BEIN SPORTS MAX6 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm6.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX6 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/271.ts
+#EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-name="FR| BEIN SPORTS MAX7 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm7.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX7 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/272.ts
+#EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-name="FR| BEIN SPORTS MAX8 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm8.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX8 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/273.ts
+#EXTINF:-1 tvg-id="beinsportsmax9.fr" tvg-name="FR| BEIN SPORTS MAX9 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm9.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX9 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/274.ts
+#EXTINF:-1 tvg-id="beinsportsmax10.fr" tvg-name="FR| BEIN SPORTS MAX10 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm10.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS MAX10 HD (EVENT ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/275.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 HD" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/282.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 HD" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/283.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE FOOT HD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE FOOT HD
+http://149.18.45.187:80/live/9429887059/7598860521/1043674.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ HD" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ HD
+http://149.18.45.187:80/live/9429887059/7598860521/278.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL HD" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL HD
+http://149.18.45.187:80/live/9429887059/7598860521/279.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE HD" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE HD
+http://149.18.45.187:80/live/9429887059/7598860521/280.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOMOTO LA CHAINE HD" tvg-logo="https://lo1.in/FR/automt.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOMOTO LA CHAINE HD
+http://149.18.45.187:80/live/9429887059/7598860521/281.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| EUROSPORT 360 HD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",✦●✦| EUROSPORT 360 HD |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/155634.ts
+#EXTINF:-1 tvg-id="eurosport3601.fr" tvg-name="FR| EUROSPORT360 1 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/925.ts
+#EXTINF:-1 tvg-id="eurosport3602.fr" tvg-name="FR| EUROSPORT360 2 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/924.ts
+#EXTINF:-1 tvg-id="eurosport3603.fr" tvg-name="FR| EUROSPORT360 3 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/923.ts
+#EXTINF:-1 tvg-id="eurosport3604.fr" tvg-name="FR| EUROSPORT360 4 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 4 HD
+http://149.18.45.187:80/live/9429887059/7598860521/922.ts
+#EXTINF:-1 tvg-id="eurosport3605.fr" tvg-name="FR| EUROSPORT360 5 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 5 HD
+http://149.18.45.187:80/live/9429887059/7598860521/921.ts
+#EXTINF:-1 tvg-id="eurosport3606.fr" tvg-name="FR| EUROSPORT360 6 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 6 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1186.ts
+#EXTINF:-1 tvg-id="eurosport3607.fr" tvg-name="FR| EUROSPORT360 7 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 7 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1185.ts
+#EXTINF:-1 tvg-id="eurosport3608.fr" tvg-name="FR| EUROSPORT360 8 HD" tvg-logo="https://lo1.in/FR/ersp36.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT360 8 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1184.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE HEVC" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/242.ts
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="FR| CANAL+ DOCS HEVC" tvg-logo="https://lo1.in/FR/cndocs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ DOCS HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/155637.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT HEVC" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/243.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HEVC" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/228055.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT HEVC [BK]" tvg-logo="https://lo1.in/fr/CANAL FOOT.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT HEVC [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/751412.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT UHD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT UHD
+http://149.18.45.187:80/live/9429887059/7598860521/1223130.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 HEVC" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/228054.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS HEVC" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/12647.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR| RMC SPORTS 1 HEVC" tvg-logo="https://lo1.in/FR/rmcs.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 1 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/244.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR| RMC SPORTS 2 HEVC" tvg-logo="https://lo1.in/FR/rmc2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 2 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/245.ts
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR| RMC SPORTS 3 HEVC" tvg-logo="https://lo1.in/FR/rmc3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 3 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/246.ts
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="FR| RMC SPORTS 4 HEVC" tvg-logo="https://lo1.in/FR/rmcs4.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| RMC SPORTS 4 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/247.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 HEVC" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/248.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 HEVC" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/249.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 HEVC" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/250.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 HEVC" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/256.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 HEVC" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/257.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ HEVC" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/253.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL HEVC" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/254.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE HEVC" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/2247.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR| AUTOMOTO LA CHAINE HEVC" tvg-logo="https://lo1.in/FR/automt.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| AUTOMOTO LA CHAINE HEVC
+http://149.18.45.187:80/live/9429887059/7598860521/255.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 SD" tvg-logo="https://lo1.in/FR/eursp1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 1 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4339.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 SD" tvg-logo="https://lo1.in/FR/eurs2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EUROSPORT 2 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4338.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LIVE FOOT SD" tvg-logo="https://lo1.in/FR/leq.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| L'EQUIPE LIVE FOOT SD
+http://149.18.45.187:80/live/9429887059/7598860521/1043673.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF+ SD" tvg-logo="https://lo1.in/FR/glfp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF+ SD
+http://149.18.45.187:80/live/9429887059/7598860521/4335.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 SD" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 1 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4342.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 SD" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 2 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4341.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 SD" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| BEIN SPORTS 3 SD
+http://149.18.45.187:80/live/9429887059/7598860521/4340.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR| CANAL+ SPORT SD" tvg-logo="https://lo1.in/FR/cnlpsp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ SPORT SD
+http://149.18.45.187:80/live/9429887059/7598860521/4343.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LEAGUE DES CHAMPIONS SD" tvg-logo="https://lo1.in/FR/champ.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ LEAGUE DES CHAMPIONS SD
+http://149.18.45.187:80/live/9429887059/7598860521/193908.ts
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR| CANAL+ PREMIERE LEAGUE SD" tvg-logo="https://lo1.in/FR/cnlpp.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ PREMIERE LEAGUE SD
+http://149.18.45.187:80/live/9429887059/7598860521/4344.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR| CANAL+ FOOT SD" tvg-logo="https://lo1.in/FR/foot24.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ FOOT SD
+http://149.18.45.187:80/live/9429887059/7598860521/228051.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR| CANAL+ 360 SD" tvg-logo="https://lo1.in/FR/cnlz.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| CANAL+ 360 SD
+http://149.18.45.187:80/live/9429887059/7598860521/228050.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR| EQUIDIA LIVE SD" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| EQUIDIA LIVE SD
+http://149.18.45.187:80/live/9429887059/7598860521/4334.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR| GOLF CHANNEL SD" tvg-logo="https://lo1.in/FR/glfch.png" tvg-country="France" group-title="EU | FRANCE SPORTS " tvg-flag="🇫🇷",FR| GOLF CHANNEL SD
+http://149.18.45.187:80/live/9429887059/7598860521/2201.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| FR LIGUE 1+ |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",✦●✦| FR LIGUE 1+ |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/1198480.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 01" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 01
+http://149.18.45.187:80/live/9429887059/7598860521/1206079.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 01 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 01 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205695.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 01 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 01 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205685.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 01 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 01 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205675.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 01 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 01 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205711.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 01 HD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 01 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205710.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 01 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 01 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198479.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 02" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 02
+http://149.18.45.187:80/live/9429887059/7598860521/1206078.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 02 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 02 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205694.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 02 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 02 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205684.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 02 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 02 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205674.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 02 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 02 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205709.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 02 HD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 02 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205708.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 02 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 02 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198478.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 03" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 03
+http://149.18.45.187:80/live/9429887059/7598860521/1206077.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 03 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 03 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205693.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 03 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 03 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205683.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 03 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 03 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205673.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 03 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 03 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205707.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 03 HD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 03 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205706.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 03 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 03 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198477.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 04" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 04
+http://149.18.45.187:80/live/9429887059/7598860521/1206076.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 04 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 04 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205692.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 04 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 04 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205682.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 04 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 04 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205672.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 04 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 04 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205705.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 04 HD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 04 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205704.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 04 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 04 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198476.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 05" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 05
+http://149.18.45.187:80/live/9429887059/7598860521/1206075.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 05 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 05 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205691.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 05 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 05 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205681.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 05 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 05 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205671.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 05 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 05 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205703.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 05 HD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 05 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205702.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 05 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 05 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198475.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 06" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 06
+http://149.18.45.187:80/live/9429887059/7598860521/1206074.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 06 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 06 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205690.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 06 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 06 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205680.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 06 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 06 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205670.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 06 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 06 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205701.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 06 HD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 06 HD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205700.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 06 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 06 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198474.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 07" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 07
+http://149.18.45.187:80/live/9429887059/7598860521/1206073.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 07 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 07 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205689.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 07 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 07 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205679.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 07 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 07 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205669.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 07 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 07 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205699.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 07 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 07 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198473.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 08" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 08
+http://149.18.45.187:80/live/9429887059/7598860521/1206072.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 08 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 08 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205688.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 08 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 08 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205678.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 08 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 08 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205668.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 08 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 08 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205698.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 08 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 08 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198472.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 09" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 09
+http://149.18.45.187:80/live/9429887059/7598860521/1206071.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 09 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 09 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205687.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 09 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 09 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205677.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 09 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 09 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205667.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 09 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 09 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205697.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 09 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 09 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198471.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 10" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 10
+http://149.18.45.187:80/live/9429887059/7598860521/1206070.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 10 FHD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 10 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1205686.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 10 HD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 10 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1205676.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 10 SD" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 10 SD
+http://149.18.45.187:80/live/9429887059/7598860521/1205666.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 10 FHD [BK]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 10 FHD [BK]
+http://149.18.45.187:80/live/9429887059/7598860521/1205696.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 10 [BK1]" tvg-logo="https://lo1.in/fr/Ligue1.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 1+ 10 [BK1]
+http://149.18.45.187:80/live/9429887059/7598860521/1198470.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CANAL+ FRANCE |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",✦●✦| CANAL+ FRANCE |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/803.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 1 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887062.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 1 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947868.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 2 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887061.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 2 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947867.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 3 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887060.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 3 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947866.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 4 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 4 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887059.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 4 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 4 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947865.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 5 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 5 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887058.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 5 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 5 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947864.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 6 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 6 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887057.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 6 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 6 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947863.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 7 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 7 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887056.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 7 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 7 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947862.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 8 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 8 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887055.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 8 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 8 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947861.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 9 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 9 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887054.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 9 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 9 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947860.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 10 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 10 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887051.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 10 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 10 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947859.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 11 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 11 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887046.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 11 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 11 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947858.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 12 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 12 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887043.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 12 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 12 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947857.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 13 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 13 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887041.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 13 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 13 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947856.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 14 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 14 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887040.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 14 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 14 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947855.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 15 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 15 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887039.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 15 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 15 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947854.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 16 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 16 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887038.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 16 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 16 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947853.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 17 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 17 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887037.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 17 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 17 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947852.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 18 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 18 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887036.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 18 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 18 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947851.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 19 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 19 HD
+http://149.18.45.187:80/live/9429887059/7598860521/887035.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 19 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| CANAL+ LIVE 19 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/947850.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ROLAND GARROS ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",✦●✦ ROLAND GARROS ✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/1398694.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS PRIME [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS PRIME [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398669.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS 01 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS 01 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398670.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS 02 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS 02 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398671.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS 03 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS 03 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398672.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS 04 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS 04 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398673.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 02 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 02 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398674.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 03 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 03 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398675.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 04 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 04 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398676.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 05 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 05 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398677.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 06 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 06 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398678.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 08 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 08 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398679.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 09 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 09 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398680.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 10 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 10 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398681.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 11 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 11 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398682.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 12 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 12 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398683.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROLAND GARROS COURT 13 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| ROLAND GARROS COURT 13 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398684.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 01 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 01 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398685.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 02 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 02 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398686.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 03 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 03 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398687.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 04 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 04 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398688.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 05 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 05 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398689.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 06 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 06 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398690.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 07 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 07 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398691.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 08 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 08 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398692.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TENNIS TTV 09 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/ROLAND-GARROS.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| TENNIS TTV 09 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1398693.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| FR DAZN NBA |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",✦●✦| FR DAZN NBA |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/1267705.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 1 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267704.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 2 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267703.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 3 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267702.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 4 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 4 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267701.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 5 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 5 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267700.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 6 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 6 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267699.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 7 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 7 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267698.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN NBA PRIME 8 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN NBA PRIME 8 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1267697.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| FR DAZN  |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",✦●✦| FR DAZN  |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/1256286.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 01" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 01
+http://149.18.45.187:80/live/9429887059/7598860521/1256260.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 02" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 02
+http://149.18.45.187:80/live/9429887059/7598860521/1256259.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 03" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 03
+http://149.18.45.187:80/live/9429887059/7598860521/1256258.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 04" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 04
+http://149.18.45.187:80/live/9429887059/7598860521/1256257.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 05" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 05
+http://149.18.45.187:80/live/9429887059/7598860521/1256256.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 06" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 06
+http://149.18.45.187:80/live/9429887059/7598860521/1256255.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 07" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 07
+http://149.18.45.187:80/live/9429887059/7598860521/1256254.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 08" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 08
+http://149.18.45.187:80/live/9429887059/7598860521/1256253.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 09" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 09
+http://149.18.45.187:80/live/9429887059/7598860521/1256252.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 10" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 10
+http://149.18.45.187:80/live/9429887059/7598860521/1256251.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 11" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 11
+http://149.18.45.187:80/live/9429887059/7598860521/1256250.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 12" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 12
+http://149.18.45.187:80/live/9429887059/7598860521/1256249.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 13" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 13
+http://149.18.45.187:80/live/9429887059/7598860521/1256248.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 14" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 14
+http://149.18.45.187:80/live/9429887059/7598860521/1256247.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 15" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 15
+http://149.18.45.187:80/live/9429887059/7598860521/1256246.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 16" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 16
+http://149.18.45.187:80/live/9429887059/7598860521/1256245.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 17" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 17
+http://149.18.45.187:80/live/9429887059/7598860521/1256243.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 18" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 18
+http://149.18.45.187:80/live/9429887059/7598860521/1256242.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 19" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 19
+http://149.18.45.187:80/live/9429887059/7598860521/1256241.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 20" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 20
+http://149.18.45.187:80/live/9429887059/7598860521/1256240.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 21" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 21
+http://149.18.45.187:80/live/9429887059/7598860521/1256239.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 22" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 22
+http://149.18.45.187:80/live/9429887059/7598860521/1256238.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 23" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 23
+http://149.18.45.187:80/live/9429887059/7598860521/1256237.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 24" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 24
+http://149.18.45.187:80/live/9429887059/7598860521/1256236.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 25" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 25
+http://149.18.45.187:80/live/9429887059/7598860521/1256235.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 26" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 26
+http://149.18.45.187:80/live/9429887059/7598860521/1256234.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 27" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 27
+http://149.18.45.187:80/live/9429887059/7598860521/1256233.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 28" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 28
+http://149.18.45.187:80/live/9429887059/7598860521/1256232.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 29" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 29
+http://149.18.45.187:80/live/9429887059/7598860521/1256231.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 30" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 30
+http://149.18.45.187:80/live/9429887059/7598860521/1256230.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 31" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 31
+http://149.18.45.187:80/live/9429887059/7598860521/1256229.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 32" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 32
+http://149.18.45.187:80/live/9429887059/7598860521/1256228.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 33" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 33
+http://149.18.45.187:80/live/9429887059/7598860521/1256227.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 34" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 34
+http://149.18.45.187:80/live/9429887059/7598860521/1256226.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 35" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 35
+http://149.18.45.187:80/live/9429887059/7598860521/1256225.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 36" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 36
+http://149.18.45.187:80/live/9429887059/7598860521/1256224.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 37" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 37
+http://149.18.45.187:80/live/9429887059/7598860521/1256223.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 38" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 38
+http://149.18.45.187:80/live/9429887059/7598860521/1256222.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 39" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 39
+http://149.18.45.187:80/live/9429887059/7598860521/1256221.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 40" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 40
+http://149.18.45.187:80/live/9429887059/7598860521/1256220.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 41" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 41
+http://149.18.45.187:80/live/9429887059/7598860521/1256219.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 42" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 42
+http://149.18.45.187:80/live/9429887059/7598860521/1256218.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 43" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 43
+http://149.18.45.187:80/live/9429887059/7598860521/1256217.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 44" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 44
+http://149.18.45.187:80/live/9429887059/7598860521/1256216.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 45" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 45
+http://149.18.45.187:80/live/9429887059/7598860521/1256215.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 46" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 46
+http://149.18.45.187:80/live/9429887059/7598860521/1256214.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 47" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 47
+http://149.18.45.187:80/live/9429887059/7598860521/1256213.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 48" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 48
+http://149.18.45.187:80/live/9429887059/7598860521/1256212.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 49" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 49
+http://149.18.45.187:80/live/9429887059/7598860521/1256211.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 50" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 50
+http://149.18.45.187:80/live/9429887059/7598860521/1256210.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 51" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 51
+http://149.18.45.187:80/live/9429887059/7598860521/1256209.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 52" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 52
+http://149.18.45.187:80/live/9429887059/7598860521/1256208.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 53" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 53
+http://149.18.45.187:80/live/9429887059/7598860521/1256207.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 54" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 54
+http://149.18.45.187:80/live/9429887059/7598860521/1256206.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 55" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 55
+http://149.18.45.187:80/live/9429887059/7598860521/1256205.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 56" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 56
+http://149.18.45.187:80/live/9429887059/7598860521/1256204.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 57" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 57
+http://149.18.45.187:80/live/9429887059/7598860521/1256203.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 58" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 58
+http://149.18.45.187:80/live/9429887059/7598860521/1256202.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 59" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 59
+http://149.18.45.187:80/live/9429887059/7598860521/1256201.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 60" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 60
+http://149.18.45.187:80/live/9429887059/7598860521/1256200.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 61" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 61
+http://149.18.45.187:80/live/9429887059/7598860521/1256199.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 62" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 62
+http://149.18.45.187:80/live/9429887059/7598860521/1256198.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 63" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 63
+http://149.18.45.187:80/live/9429887059/7598860521/1256197.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 64" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 64
+http://149.18.45.187:80/live/9429887059/7598860521/1256196.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 65" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 65
+http://149.18.45.187:80/live/9429887059/7598860521/1256195.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 66" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 66
+http://149.18.45.187:80/live/9429887059/7598860521/1256194.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 67" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 67
+http://149.18.45.187:80/live/9429887059/7598860521/1256193.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 68" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 68
+http://149.18.45.187:80/live/9429887059/7598860521/1256192.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 69" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 69
+http://149.18.45.187:80/live/9429887059/7598860521/1256191.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 70" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 70
+http://149.18.45.187:80/live/9429887059/7598860521/1256190.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 71" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 71
+http://149.18.45.187:80/live/9429887059/7598860521/1256189.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 72" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 72
+http://149.18.45.187:80/live/9429887059/7598860521/1256188.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 73" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 73
+http://149.18.45.187:80/live/9429887059/7598860521/1256187.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 74" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 74
+http://149.18.45.187:80/live/9429887059/7598860521/1256186.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 75" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 75
+http://149.18.45.187:80/live/9429887059/7598860521/1256185.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 76" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 76
+http://149.18.45.187:80/live/9429887059/7598860521/1256184.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 77" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 77
+http://149.18.45.187:80/live/9429887059/7598860521/1256183.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 78" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 78
+http://149.18.45.187:80/live/9429887059/7598860521/1256182.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 79" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 79
+http://149.18.45.187:80/live/9429887059/7598860521/1256181.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 80" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 80
+http://149.18.45.187:80/live/9429887059/7598860521/1256180.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 81" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 81
+http://149.18.45.187:80/live/9429887059/7598860521/1256179.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 82" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 82
+http://149.18.45.187:80/live/9429887059/7598860521/1256178.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 83" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 83
+http://149.18.45.187:80/live/9429887059/7598860521/1256177.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 84" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 84
+http://149.18.45.187:80/live/9429887059/7598860521/1256176.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 85" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 85
+http://149.18.45.187:80/live/9429887059/7598860521/1256175.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 86" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 86
+http://149.18.45.187:80/live/9429887059/7598860521/1256174.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 87" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 87
+http://149.18.45.187:80/live/9429887059/7598860521/1256173.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 88" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 88
+http://149.18.45.187:80/live/9429887059/7598860521/1256172.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 89" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 89
+http://149.18.45.187:80/live/9429887059/7598860521/1256171.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 90" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 90
+http://149.18.45.187:80/live/9429887059/7598860521/1256170.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 91" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 91
+http://149.18.45.187:80/live/9429887059/7598860521/1256169.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 92" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 92
+http://149.18.45.187:80/live/9429887059/7598860521/1256168.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 93" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 93
+http://149.18.45.187:80/live/9429887059/7598860521/1256167.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 94" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 94
+http://149.18.45.187:80/live/9429887059/7598860521/1256166.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 95" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 95
+http://149.18.45.187:80/live/9429887059/7598860521/1256165.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 96" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 96
+http://149.18.45.187:80/live/9429887059/7598860521/1256164.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 97" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 97
+http://149.18.45.187:80/live/9429887059/7598860521/1256163.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 98" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 98
+http://149.18.45.187:80/live/9429887059/7598860521/1256162.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 99" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 99
+http://149.18.45.187:80/live/9429887059/7598860521/1256161.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 100" tvg-logo="https://lo1.in/ca/dzncaleo.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| DAZN 100
+http://149.18.45.187:80/live/9429887059/7598860521/1256160.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ FFF ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",✦●✦ FFF ✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/126552.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| FFF TV 01 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| FFF TV 01 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/701044.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| FFF TV 02 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| FFF TV 02 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/701043.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| FFF TV 03 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| FFF TV 03 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/701042.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| FFF TV 04 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| FFF TV 04 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/701041.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| FFF TV 05 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| FFF TV 05 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/701040.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| FFF TV 06 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| FFF TV 06 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/701039.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| FFF TV 07 [EVENT ONLY]" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| FFF TV 07 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/701038.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| FRANCE PPV |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",✦●✦| FRANCE PPV |✦●✦
+http://149.18.45.187:80/live/9429887059/7598860521/1189.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 1 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29259.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 2 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29258.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 3 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29257.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 4 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 4 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29256.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 5 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 5 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29255.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 6 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 6 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29254.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 7 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 7 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29253.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| (SKWEEK) - EVENT 8 FHD" tvg-logo="https://lo1.in/fr/skweett.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| (SKWEEK) - EVENT 8 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29252.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 1 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 1 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370916.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 2 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 2 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370915.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 3 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 3 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370914.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 4 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 4 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370913.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 5 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 5 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370912.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 6 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 6 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370911.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 7 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 7 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370910.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 8 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 8 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370909.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 9 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 9 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370908.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAGNUS - EVENT 10 Full HD (LIVE ONLY)" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| MAGNUS - EVENT 10 Full HD (LIVE ONLY)
+http://149.18.45.187:80/live/9429887059/7598860521/1370907.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 01 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 01 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29275.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29274.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 3 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29273.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 4 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 4 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29272.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 5 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 5 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29271.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 6 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 6 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29270.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 7 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 7 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29269.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 8 FHD" tvg-logo="https://lo1.in/fr/LIGUE 1 SD.png" tvg-country="France" group-title="EU | FRANCE PPV" tvg-flag="🇫🇷",FR| LIGUE 8 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/29268.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR-CAR| CANAL+ SPORT" tvg-logo="https://lo1.in/fr/c4k1.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| CANAL+ SPORT
+http://149.18.45.187:80/live/9429887059/7598860521/1002.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR-CAR| CANAL+ FOOT HD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| CANAL+ FOOT HD
+http://149.18.45.187:80/live/9429887059/7598860521/1081470.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR-CAR| CANAL+ SPORT 360 HD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| CANAL+ SPORT 360 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1081471.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR-CAR| EUROSPORT 1" tvg-logo="https://lo1.in/fr/eurosptd1.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| EUROSPORT 1
+http://149.18.45.187:80/live/9429887059/7598860521/982.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR-CAR| EUROSPORT 2 HD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| EUROSPORT 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1081463.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR-CAR| EQUIDIA LIVE" tvg-logo="https://lo1.in/fr/eqpd.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| EQUIDIA LIVE
+http://149.18.45.187:80/live/9429887059/7598860521/983.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR-CAR| BEIN SPORTS 1" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| BEIN SPORTS 1
+http://149.18.45.187:80/live/9429887059/7598860521/999.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR-CAR| BEIN SPORTS 2" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| BEIN SPORTS 2
+http://149.18.45.187:80/live/9429887059/7598860521/998.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR-CAR| BEIN SPORTS 3" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| BEIN SPORTS 3
+http://149.18.45.187:80/live/9429887059/7598860521/997.ts
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR-CAR| BEIN SPORTS MAX 4" tvg-logo="https://lo1.in/fr/bnsm4.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| BEIN SPORTS MAX 4
+http://149.18.45.187:80/live/9429887059/7598860521/996.ts
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR-CAR| BEIN SPORTS MAX 5" tvg-logo="https://lo1.in/fr/bnsm5.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| BEIN SPORTS MAX 5
+http://149.18.45.187:80/live/9429887059/7598860521/995.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR-CAR| AUTOMOTO HD" tvg-logo="https://lo1.in/fr/fr.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-CAR| AUTOMOTO HD
+http://149.18.45.187:80/live/9429887059/7598860521/1081465.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU| EUROSPORT 1 HD" tvg-logo="https://lo1.in/fr/eurosptd1.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-REU| EUROSPORT 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1026.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU| AUTOMOTO HD" tvg-logo="https://lo1.in/fr/automtt.png" tvg-country="France" group-title="EU | FRANCE DOM TOM " tvg-flag="🇫🇷",FR-REU| AUTOMOTO HD
+http://149.18.45.187:80/live/9429887059/7598860521/1020.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 01 : Panama vs England, 10pm" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 01 : Panama vs England, 10pm
+http://149.18.45.187:80/live/9429887059/7598860521/1411613.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 02 : Croatia vs Ghana, 10pm" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 02 : Croatia vs Ghana, 10pm
+http://149.18.45.187:80/live/9429887059/7598860521/1411612.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 03 : Colombia vs Portugal, 12.30am" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 03 : Colombia vs Portugal, 12.30am
+http://149.18.45.187:80/live/9429887059/7598860521/1411611.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 04 : DR Congo vs Uzbekistan, 12.30am" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 04 : DR Congo vs Uzbekistan, 12.30am
+http://149.18.45.187:80/live/9429887059/7598860521/1411610.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 05 : Algeria vs Austria, 3am" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 05 : Algeria vs Austria, 3am
+http://149.18.45.187:80/live/9429887059/7598860521/1411609.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 06 : Jordan vs Argentina, 3am" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 06 : Jordan vs Argentina, 3am
+http://149.18.45.187:80/live/9429887059/7598860521/1411608.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 07 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 07 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1411607.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 08 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 08 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1411606.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 09 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 09 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1411605.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 10 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1411604.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 1 4K" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 1 4K
+http://149.18.45.187:80/live/9429887059/7598860521/1416290.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 2 4K" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 2 4K
+http://149.18.45.187:80/live/9429887059/7598860521/1416291.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 3 4K" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA WORLD CUP 3 4K
+http://149.18.45.187:80/live/9429887059/7598860521/1416292.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 001 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 001 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395798.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 002 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 002 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395799.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 003 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 003 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395800.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 004 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 004 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395801.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 005 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 005 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395802.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 006 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 006 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395803.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 007 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 007 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395804.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 008 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 008 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395805.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 009 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 009 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395806.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 010 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 010 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395807.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 011 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 011 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395808.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 012 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 012 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395809.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 013 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 013 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395810.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 014 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 014 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395811.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 015 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 015 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395812.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 016 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 016 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395813.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 017 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 017 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395814.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 018 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 018 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395815.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 019 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 019 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395816.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 020 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 020 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395817.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 021 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 021 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395818.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 022 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 022 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395819.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 023 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 023 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395820.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 024 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 024 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395821.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 025 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 025 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395822.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 026 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 026 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395823.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 027 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 027 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395824.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 028 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 028 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395825.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 029 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 029 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395826.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 030 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 030 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395827.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 031 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 031 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395828.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 032 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 032 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395829.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 033 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 033 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395830.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 034 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 034 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395831.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 035 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 035 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395832.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 036 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 036 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395833.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 037 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 037 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395834.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 038 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 038 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395835.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 039 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 039 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395836.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 040 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 040 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395837.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 041 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 041 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395838.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 042 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 042 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395839.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 043 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 043 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395840.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 044 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 044 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395841.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 045 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 045 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395842.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 046 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 046 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395843.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 047 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 047 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395844.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 048 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 048 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395845.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 049 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 049 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395846.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 050 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 050 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395847.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 051 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 051 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395848.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 052 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 052 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395849.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 053 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 053 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395850.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 054 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 054 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395851.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 055 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 055 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395852.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 056 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 056 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395853.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 057 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 057 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395854.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 058 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 058 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395855.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 059 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 059 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395856.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 060 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 060 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395857.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 061 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 061 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395858.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 062 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 062 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395859.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 063 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 063 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395860.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 064 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 064 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395861.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 065 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 065 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395862.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 066 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 066 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395863.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 067 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 067 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395864.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 068 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 068 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395865.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 069 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 069 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395866.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 070 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 070 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395867.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 071 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 071 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395868.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 072 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 072 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395869.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 073 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 073 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395870.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 074 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 074 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395871.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 075 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 075 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395872.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 076 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 076 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395873.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 077 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 077 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395874.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 078 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 078 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395875.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 079 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 079 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395876.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 080 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 080 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395877.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 081 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 081 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395878.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 082 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 082 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395879.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 083 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 083 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395880.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 084 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 084 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395881.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 085 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 085 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395882.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 086 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 086 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395883.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 087 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 087 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395884.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 088 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 088 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395885.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 089 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 089 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 090 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 090 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 091 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 091 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395888.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 092 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 092 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395889.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 093 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 093 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395890.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 094 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 094 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395891.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 095 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 095 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395892.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 096 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 096 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395893.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 097 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 097 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395894.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 098 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 098 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395895.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 099 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 099 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395896.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 100 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" tvg-country="Unknown" group-title="VIP | FIFA PLUS" tvg-flag="",PPV| FIFA+ 100 [EVENT ONLY]
+http://149.18.45.187:80/live/9429887059/7598860521/1395897.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="FIFA-LT| DAZN MUNDIAL 1 HD" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 AMERICA" tvg-flag="",FIFA-LT| DAZN MUNDIAL 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1415232.ts
+#EXTINF:-1 tvg-id="daznlaliga2.es" tvg-name="FIFA-LT| DAZN MUNDIAL 2 HD" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 AMERICA" tvg-flag="",FIFA-LT| DAZN MUNDIAL 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1415233.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="FIFA-ES| DAZN MUNDIAL 1 HD" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-ES| DAZN MUNDIAL 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1410692.ts
+#EXTINF:-1 tvg-id="daznlaliga2.es" tvg-name="FIFA-ES| DAZN MUNDIAL 2 HD" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-ES| DAZN MUNDIAL 2 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1410693.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-ES| DAZN MUNDIAL 3 HD" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-ES| DAZN MUNDIAL 3 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1410694.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-ES| DAZN MUNDIAL 4 HD" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-ES| DAZN MUNDIAL 4 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1410695.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FIFA-FR| BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/fr/bns1.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-FR| BEIN SPORTS 1 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1410686.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FIFA-FR| BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/fr/bns2.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-FR| BEIN SPORTS 2 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1410687.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FIFA-FR| BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/fr/bns3.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-FR| BEIN SPORTS 3 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1410688.ts
+#EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-name="FIFA-FR| BEIN SPORTS MAX4 FHD" tvg-logo="https://lo1.in/fr/bnsm4.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-FR| BEIN SPORTS MAX4 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1410689.ts
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="FIFA-FR| BEIN SPORTS MAX5 FHD" tvg-logo="https://lo1.in/fr/bnsm5.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-FR| BEIN SPORTS MAX5 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1410690.ts
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="FIFA-FR| BEIN SPORTS MAX6 FHD" tvg-logo="https://lo1.in/fr/bnsm6.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-FR| BEIN SPORTS MAX6 FHD
+http://149.18.45.187:80/live/9429887059/7598860521/1410691.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Messico" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Messico
+http://149.18.45.187:80/live/9429887059/7598860521/1424815.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Sudafrica" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Sudafrica
+http://149.18.45.187:80/live/9429887059/7598860521/1424816.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Corea del Sud" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Corea del Sud
+http://149.18.45.187:80/live/9429887059/7598860521/1424817.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Repubblica Ceca" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Repubblica Ceca
+http://149.18.45.187:80/live/9429887059/7598860521/1424818.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Canada" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Canada
+http://149.18.45.187:80/live/9429887059/7598860521/1424819.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Bosnia-Erzegovina" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Bosnia-Erzegovina
+http://149.18.45.187:80/live/9429887059/7598860521/1424820.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Qatar" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Qatar
+http://149.18.45.187:80/live/9429887059/7598860521/1424821.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Svizzera" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Svizzera
+http://149.18.45.187:80/live/9429887059/7598860521/1424822.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Brasile" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Brasile
+http://149.18.45.187:80/live/9429887059/7598860521/1424823.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Marocco" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Marocco
+http://149.18.45.187:80/live/9429887059/7598860521/1424824.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Haiti" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Haiti
+http://149.18.45.187:80/live/9429887059/7598860521/1424825.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Scozia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Scozia
+http://149.18.45.187:80/live/9429887059/7598860521/1424826.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : USA" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : USA
+http://149.18.45.187:80/live/9429887059/7598860521/1424827.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Paraguay" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Paraguay
+http://149.18.45.187:80/live/9429887059/7598860521/1424828.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Australia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Australia
+http://149.18.45.187:80/live/9429887059/7598860521/1424829.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Turchia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Turchia
+http://149.18.45.187:80/live/9429887059/7598860521/1424830.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Germania" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Germania
+http://149.18.45.187:80/live/9429887059/7598860521/1424831.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Curaçao" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Curaçao
+http://149.18.45.187:80/live/9429887059/7598860521/1424832.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Costa d'Avorio" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Costa d'Avorio
+http://149.18.45.187:80/live/9429887059/7598860521/1424833.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Ecuador" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Ecuador
+http://149.18.45.187:80/live/9429887059/7598860521/1424834.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Paesi Bassi" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Paesi Bassi
+http://149.18.45.187:80/live/9429887059/7598860521/1424835.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Giappone" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Giappone
+http://149.18.45.187:80/live/9429887059/7598860521/1424836.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Svezia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Svezia
+http://149.18.45.187:80/live/9429887059/7598860521/1424837.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Tunisia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Tunisia
+http://149.18.45.187:80/live/9429887059/7598860521/1424838.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Belgio" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Belgio
+http://149.18.45.187:80/live/9429887059/7598860521/1424839.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Egitto" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Egitto
+http://149.18.45.187:80/live/9429887059/7598860521/1424840.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Iran" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Iran
+http://149.18.45.187:80/live/9429887059/7598860521/1424841.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Nuova Zelanda" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Nuova Zelanda
+http://149.18.45.187:80/live/9429887059/7598860521/1424842.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Spagna" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Spagna
+http://149.18.45.187:80/live/9429887059/7598860521/1424843.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Capo Verde" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Capo Verde
+http://149.18.45.187:80/live/9429887059/7598860521/1424844.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Arabia Saudita" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Arabia Saudita
+http://149.18.45.187:80/live/9429887059/7598860521/1424845.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Uruguay" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Uruguay
+http://149.18.45.187:80/live/9429887059/7598860521/1424846.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Francia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Francia
+http://149.18.45.187:80/live/9429887059/7598860521/1424847.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Senegal" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Senegal
+http://149.18.45.187:80/live/9429887059/7598860521/1424848.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Iraq" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Iraq
+http://149.18.45.187:80/live/9429887059/7598860521/1424849.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Norvegia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Norvegia
+http://149.18.45.187:80/live/9429887059/7598860521/1424850.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Argentina" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Argentina
+http://149.18.45.187:80/live/9429887059/7598860521/1424851.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Algeria" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Algeria
+http://149.18.45.187:80/live/9429887059/7598860521/1424852.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Austria" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Austria
+http://149.18.45.187:80/live/9429887059/7598860521/1424853.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Giordania" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Giordania
+http://149.18.45.187:80/live/9429887059/7598860521/1424854.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Portogallo" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Portogallo
+http://149.18.45.187:80/live/9429887059/7598860521/1424855.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : RD Congo" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : RD Congo
+http://149.18.45.187:80/live/9429887059/7598860521/1424856.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Uzbekistan" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Uzbekistan
+http://149.18.45.187:80/live/9429887059/7598860521/1424857.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Colombia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Colombia
+http://149.18.45.187:80/live/9429887059/7598860521/1424858.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Inghilterra" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Inghilterra
+http://149.18.45.187:80/live/9429887059/7598860521/1424859.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Croazia" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Croazia
+http://149.18.45.187:80/live/9429887059/7598860521/1424860.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Ghana" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Ghana
+http://149.18.45.187:80/live/9429887059/7598860521/1424861.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IT| DAZN MONDIALI : Panama" tvg-logo="https://lo1.in/sp/dznfifa.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 WEST EUROP" tvg-flag="",FIFA-IT| DAZN MONDIALI : Panama
+http://149.18.45.187:80/live/9429887059/7598860521/1424862.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="FIFA-TR| BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/trk/bn1.png" tvg-country="Unknown" group-title="VIP | FIFA WC26 EAST EUROP" tvg-flag="",FIFA-TR| BEIN SPORTS 1 HD
+http://149.18.45.187:80/live/9429887059/7598860521/1409831.ts
